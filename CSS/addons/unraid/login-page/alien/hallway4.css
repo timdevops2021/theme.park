@@ -1,8 +1,8 @@
-@import url("https://theme-park.dev/CSS/addons/unraid/login-page/alien/alien_base.css");
+@import url("https://github.com/timdevops2021/theme.park/blob/master/CSS/addons/unraid/login-page/alien/alien_base.css");
 :root {
     --main-bg: radial-gradient(ellipse at center,rgba(0, 255, 119, 0.1) 0,rgba(0,255,119,0) 100%) center center/cover no-repeat fixed, 
-    url(https://theme-park.dev/CSS/addons/unraid/login-page/alien/wallpaper/hallway4.jpg) center center/cover no-repeat fixed;
-    --logo: url(https://theme-park.dev/CSS/addons/unraid/login-page/alien/logo/wings_green.png) center no-repeat;
+    url(https://github.com/timdevops2021/theme.park/blob/master/CSS/addons/unraid/login-page/alien/wallpaper/4kNebula.jpg) center center/cover no-repeat fixed;
+    --logo: url(https://github.com/timdevops2021/theme.park/blob/master/CSS/addons/unraid/login-page/alien/logo/BeastRunLogo.png) center no-repeat;
     --text-color: #37f592;
     --input-color: #37f592;
     --link-color: #37f592;
